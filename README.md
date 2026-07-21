@@ -121,7 +121,7 @@ The model classifies each review into one of three MDA categories:
 
 ## 📷 Application Preview
 
-![CNN-MDA Dashboard](dashboard.png)
+![CNN-MDA Dashboard](dashboard.jpg)
 
 ---
 
