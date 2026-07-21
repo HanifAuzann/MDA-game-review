@@ -54,7 +54,7 @@ CNN-MDA-game-review/
 Clone this repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/CNN-MDA-game-review.git
+git clone https://github.com/HanifAuzann/CNN-MDA-game-review.git
 ```
 
 Move into the project directory:
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 Run the application:
 
 ```bash
-streamlit run app.py
+python -m streamlit run app.py
 ```
 
 ---
