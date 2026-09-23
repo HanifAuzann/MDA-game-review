@@ -1,6 +1,4 @@
 streamlit
-tensorflow
-numpy
 pandas
 requests
 altair
